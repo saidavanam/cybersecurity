@@ -42,3 +42,17 @@
 
 9. **Explain the security implications for organization**:
    - Security breaches can lead to data loss, financial loss, reputational damage, legal consequences, and can compromise sensitive information.
+  
+10. Briefly explain the types of attacks on mobile devices through wireless networks.
+    To protect yourself from attacks on mobile devices, follow these measures:
+
+      1. **Use Strong Passwords**: Implement complex passwords or passcodes to secure your device.
+      2. **Regular Software Updates**: Keep your operating system and apps updated to patch security vulnerabilities.
+      3. **Reliable Security Applications**: Install trusted antivirus and anti-malware software.
+      4. **Avoid Unsecured Wi-Fi Networks**: Be cautious of public Wi-Fi; use a VPN for secure browsing.
+      5. **App Permissions**: Carefully review and manage app permissions to restrict unnecessary access to your data.
+      6. **Download Apps from Trusted Sources**: Only download apps from official app stores and check reviews.
+      7. **Enable Remote Wipe Capabilities**: In case your device is lost or stolen, this allows you to remotely delete sensitive data.
+      8. **Beware of Phishing Attempts**: Be cautious of suspicious links and emails, and do not share personal information.
+      9. **Physical Security**: Keep your device with you and be aware of your surroundings to prevent theft.
+      10. **Backup Your Data Regularly**: Regular backups can help recover data in case of a device compromise.
