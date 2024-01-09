@@ -54,3 +54,91 @@
    - **Need for Host File**: Viruses need a host file to spread, whereas worms are self-replicating and do not need to attach themselves to a program.
    - **Impact**: Worms often cause more harm to networks, often consuming bandwidth, whereas viruses tend to corrupt or modify files on a targeted computer.
    - **Detection and Removal**: Viruses can be more challenging to detect and remove as they embed themselves in legitimate files. Worms, being separate entities, can be easier to isolate and remove.
+
+11) **Different Types of Viruses**:
+   - **Boot Sector Virus**: Infects the master boot record and is often spread by removable media.
+   - **Direct Action Virus**: Attaches itself to executable files and replicates itself to other files in the directory.
+   - **Resident Virus**: Installs itself on a computer and remains in the memory even after the infected file is executed.
+   - **Non-Resident Virus**: Does not install itself but acts upon execution of an infected file.
+   - **Macro Virus**: Infects software that uses macros, like Microsoft Office products.
+   - **Polymorphic Virus**: Changes its signature pattern whenever it replicates to avoid detection by antivirus.
+   - **Metamorphic Virus**: Rewrites itself completely at each iteration, making detection very difficult.
+   - **File Infector Virus**: Infects files that are executable or can run code.
+
+12) **Steganography**:
+   - Steganography is the practice of concealing messages or information within other non-secret text or data. Unlike cryptography, which hides the content of a message, steganography hides the existence of the message. It can involve hiding data within images, audio files, videos, or other seemingly innocuous files.
+
+13) **Differences between Steganography and Cryptography**:
+   - **Purpose**: Cryptography aims to make data unreadable to a third party, while steganography aims to hide the fact that communication is happening.
+   - **Method**: Cryptography alters the appearance of data (encrypting it), whereas steganography hides the data within other harmless-looking data.
+   - **Detection**: Encrypted data is noticeable and could draw attention. Conversely, steganographic data appears ordinary and tends to avoid attention.
+   - **Use Case**: Cryptography is used for protecting the content of the message, while steganography is used for covert communication.
+
+14) **Classification of DOS Attack**:
+   - **Volume-Based Attacks**: Includes ICMP floods, UDP floods, and other floods intended to saturate the bandwidth of the targeted site.
+   - **Protocol Attacks**: Includes SYN floods, fragmented packet attacks, Ping of Death, etc., aimed at exploiting server resources.
+   - **Application Layer Attacks**: Targets web application packets to disrupt transmission of data between servers.
+
+15) **Different Types of DOS Attacks and Detection Tools**:
+   - **Types of DOS Attacks**:
+     - **SYN Flood**: Sends a request to connect to a server but does not complete the handshake, exhausting server resources.
+     - **Ping of Death**: Involves sending packets larger than the maximum size allowed by the IP protocol to crash or freeze the target system.
+     - **Teardrop Attack**: Sends fragmented packets to the targeted device and overwhelms it by making it impossible to reassemble these packets.
+   - **Tools for Detecting DOS Attack**:
+     - **Wireshark**: A network protocol analyzer that can detect anomalies in network traffic.
+     - **Snort**: An open-source network intrusion prevention system capable of performing real-time traffic analysis and packet logging. 
+
+16) **Measures to Protect Against DOS Attack**:
+   - **Network Configuration**: Implement proper network architecture, including the use of firewalls, routers, and switches configured to resist DOS attacks.
+   - **Bandwidth Overprovisioning**: Having more bandwidth than required can help absorb the impact of an attack.
+   - **Rate Limiting**: Limit the rate of requests a server can accept from a single IP address or network.
+   - **Anti-DDoS Solutions**: Deploy specialized DDoS protection solutions that can detect and mitigate such attacks.
+   - **Redundancy**: Have backup resources to maintain functionality even under attack.
+   - **Regular Updates and Patches**: Keep all systems updated with the latest security patches.
+
+17) **SQL Injection**:
+   - SQL Injection is a code injection technique that exploits a security vulnerability occurring in the database layer of an application. Attackers can use SQL commands in a web form input box to gain access to resources or make changes to data.
+
+18) **Steps Involved in SQL Injection**:
+   - **Detection**: Identify that the web application is vulnerable to SQL injection.
+   - **Data Extraction**: Utilize the injection point to extract data from the database.
+   - **Adding or Modifying Data**: Insert or update data in the database.
+   - **Database Scheme Retrieval**: Retrieve the schema of the database to understand its structure.
+   - **Database Control**: Gain control over the database server through more advanced SQL injection techniques.
+
+19) **Prevention Measures for SQL Injection**:
+   - **Use Prepared Statements (Parameterized Queries)**: They ensure that an attacker cannot change the intent of a query, even if SQL commands are inserted by an attacker.
+   - **Use Stored Procedures**: They also prevent SQL injection, provided they do not include unsafe dynamic SQL generation.
+   - **Validate User Input**: Validate and sanitize all user inputs to ensure they do not contain malicious SQL.
+   - **Use Web Application Firewalls (WAFs)**: They can help filter out malicious data.
+
+20) **Buffer Overflow and Prevention Tools**:
+   - **Buffer Overflow**: Occurs when a program writes more data to a buffer than it can hold. This can result in corrupt data, crashes, and vulnerabilities.
+   - **Types**:
+     - **Stack-based Buffer Overflow**: Occurs when a program writes to a memory address on the program's call stack outside of the intended data structure.
+     - **Heap-based Buffer Overflow**: Occurs in the heap data area and is more complex but equally dangerous.
+   - **Tools**:
+     - **StackGuard**: Protects against stack-based buffer overflows by placing a canary value next to the return address.
+     - **Address Space Layout Randomization (ASLR)**: Makes it more difficult for an attacker to predict target addresses.
+
+21) **Minimizing Buffer Overflow**:
+   - **Use Safe Libraries**: Replace unsafe functions with safer alternatives provided in libraries.
+   - **Perform Bounds Checking**: Ensure that bounds checks are performed on all buffer accesses.
+   - **Code Auditing and Review**: Regularly audit and review code to identify potential buffer overflow vulnerabilities.
+   - **Memory Management Best Practices**: Use memory management practices that reduce the risk of buffer overflow.
+
+22) **Traditional Attacks on Wireless Networks and Protection Tools**:
+   - **Types of Attacks**:
+     - **Rogue Access Points**: Unauthorized access points installed in a network.
+     - **Evil Twin Attacks**: Setting up a fake access point with a legitimate-sounding name to capture sensitive information.
+   - **Protection Tools**:
+     - **WPA3 Encryption**: Provides stronger encryption standards for Wi-Fi security.
+     - **Network Monitoring Tools**: Tools like Wireshark can monitor wireless network traffic to identify potential threats.
+
+23) **Securing Wireless Networks from Attacks**:
+   - **Use Strong Encryption (WPA3)**: Ensures that the data transmitted over the network is encrypted and secure.
+   - **Enable MAC Address Filtering**: Allows only trusted devices to connect to the network.
+   - **Disable SSID Broadcast**: Makes the network invisible to casual scanning.
+   - **Update Router Firmware**: Keeps the network protected against known vulnerabilities.
+   - **Use Strong Passwords**: Prevents unauthorized access through weak passwords.
+   - **Regular Network Monitoring**: Regularly monitor the network for any unusual activities.
