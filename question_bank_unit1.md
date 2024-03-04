@@ -1,4 +1,4 @@
-1) What is cybercrime? How do you define it?
+### What is cybercrime? How do you define it?
 
 Cybercrime refers to criminal activities carried out using computers or the internet. It involves the use of technology to commit fraudulent, malicious, or illegal actions.
 
@@ -8,7 +8,7 @@ Cybercrime refers to criminal activities carried out using computers or the inte
     d) Identity Theft: Stealing personal information to impersonate individuals for financial gain, fraud, or other malicious purposes.
     e) Online Fraud: Committing fraudulent activities such as credit card fraud, online scams, or Ponzi schemes via the internet.
 
-2) Who are cybercriminals? What are the different types of cybercriminals?
+### Who are cybercriminals? What are the different types of cybercriminals?
 
 Cybercriminals are individuals or groups who engage in criminal activities using computers or the internet. They can vary in expertise, motivation, and methods. Here are some types:
 
@@ -18,14 +18,14 @@ Cybercriminals are individuals or groups who engage in criminal activities using
     d) Identity Thieves: Criminals who steal personal information to commit fraud, financial crimes, or impersonation.
     e) Cyber Extortionists: Individuals or groups who threaten to release sensitive data or disrupt services unless a ransom is paid.
 
-3) List Difference between information security and cyber security
+### List Difference between information security and cyber security
 
 Information Security and Cybersecurity are closely related but have distinct focuses:
 
     a) Information Security: Primarily concerned with protecting the confidentiality, integrity, and availability of data regardless of the technology used. It encompasses physical and digital aspects of data protection.
     b) Cybersecurity: Specifically addresses the protection of digital assets such as networks, systems, and devices from cyber threats like hacking, malware, and unauthorized access. It focuses on the security of cyberspace.
 
-4) What is cyberterrorism?
+### What is cyberterrorism?
 
 Cyberterrorism refers to the use of cyber attacks by terrorist groups or individuals to cause fear, disruption, or harm to society.
 
@@ -35,7 +35,7 @@ Cyberterrorism refers to the use of cyber attacks by terrorist groups or individ
     d) Sophisticated Techniques: Cyberterrorists employ advanced hacking techniques, malware, or social engineering tactics to carry out their attacks.
     e) Global Impact: Cyberterrorism poses a significant threat on a global scale, potentially affecting multiple countries and industries simultaneously.
 
-5) What is cyberspace?
+### What is cyberspace?
 
 Cyberspace refers to the virtual environment created by interconnected computer systems and networks. Here's a breakdown:
 
@@ -45,7 +45,7 @@ Cyberspace refers to the virtual environment created by interconnected computer 
     d) E-commerce and Transactions: It enables online transactions, e-commerce activities, and digital financial services across geographical boundaries.
     e) Vulnerabilities and Security Challenges: Cyberspace faces various security threats like cyber attacks, data breaches, and privacy concerns, requiring robust cybersecurity measures to mitigate risks.
 
-6) What is cybersquatting?
+### What is cybersquatting?
 
 Cybersquatting refers to the practice of registering, trafficking in, or using an internet domain name with the intent of profiting from the goodwill of someone else's trademark. Here's more detail:
 
@@ -55,7 +55,7 @@ Cybersquatting refers to the practice of registering, trafficking in, or using a
     d) Brand Dilution: It can harm the reputation and brand value of legitimate businesses by associating their trademarks with unauthorized or malicious websites.
     e) Anti-Cybersquatting Laws: Many countries have enacted laws and regulations to combat cybersquatting, providing legal recourse for trademark owners to reclaim their domain names.
 
-7) What is warfare?
+### What is warfare?
 
 Warfare refers to the use of organized, armed conflict between nations, states, or other groups, typically involving military forces and strategies. Here's a breakdown:
 
@@ -65,7 +65,7 @@ Warfare refers to the use of organized, armed conflict between nations, states, 
     d) Legal Framework: International laws and conventions govern the conduct of warfare, establishing rules and norms to minimize civilian casualties, protect prisoners of war, and regulate the use of certain weapons.
     e) Humanitarian Impact: Warfare often results in significant humanitarian crises, including displacement of populations, destruction of infrastructure, and loss of life, necessitating humanitarian aid and peace-building efforts.
 
-8) What is the difference between cyberterrorism and cyberwarfare?
+### What is the difference between cyberterrorism and cyberwarfare?
 
 While both involve cyber attacks, cyberterrorism and cyberwarfare have distinct characteristics:
 
@@ -75,7 +75,7 @@ While both involve cyber attacks, cyberterrorism and cyberwarfare have distinct 
     d) Scale: Cyberterrorism attacks tend to be smaller in scale but can have significant psychological impact. Cyberwarfare operations can be large-scale and coordinated, involving sophisticated tactics, techniques, and procedures (TTPs).
     e) Legal Status: Cyberterrorism is universally condemned and considered a criminal act under international law. Cyberwarfare, while contentious, may be conducted within the bounds of international laws governing armed conflict, subject to principles of proportionality, distinction, and necessity.
 
-9) Explain the classification of cybercrimes
+### Explain the classification of cybercrimes
 
 Cybercrimes can be classified into various categories based on the nature of the offense and the target. Here are common classifications:
 
@@ -85,7 +85,7 @@ Cybercrimes can be classified into various categories based on the nature of the
     d) Data Breaches: Unauthorized access, theft, or disclosure of sensitive information like personal data, financial records, or intellectual property stored on computer systems or networks.
     e) Cyber-Terrorism: The use of cyber attacks to intimidate, coerce, or disrupt critical infrastructure, government operations, or civilian populations for political, ideological, or social reasons.
 
-10) Explain the causes of cybercrime.
+### Explain the causes of cybercrime.
 
 Cybercrime can be fueled by various factors, including technological advancements, economic incentives, and social dynamics. Here are some causes:
 
@@ -95,7 +95,7 @@ Cybercrime can be fueled by various factors, including technological advancement
     d) Lack of Awareness: Insufficient knowledge about cybersecurity best practices among individuals, organizations, and policymakers can make them vulnerable to cyber threats like phishing, malware, or social engineering attacks.
     e) Globalization and Connectivity: The interconnected nature of the internet and global economy facilitates cross-border cybercrime, making it challenging for law enforcement agencies to investigate and prosecute offenders effectively.
 
-11) Write a short note on “Indian legal Perspective on cybercrime”:
+### Write a short note on “Indian legal Perspective on cybercrime”:
 
 Cybercrime in India is governed by various laws and regulations to address the growing threat in the digital sphere. Here's an overview:
 
@@ -109,13 +109,13 @@ d) Enforcement Directorate (ED): The ED is responsible for enforcing laws relate
 
 e) Cyber Cells: Various states in India have established specialized cybercrime investigation units or cyber cells to handle cyber offenses effectively and ensure swift action against perpetrators.
 
-12) Explain two Indian acts under which cybercrime is punishable:
+### Explain two Indian acts under which cybercrime is punishable:
 
 a) Information Technology (IT) Act, 2000: The IT Act, 2000, is the primary legislation addressing cybercrime in India. It defines various cyber offenses such as unauthorized access, hacking, identity theft, cyberterrorism, and the distribution of malicious software. Offenders can face penalties including imprisonment, fines, or both.
 
 b) Indian Penal Code (IPC): Certain cyber offenses are also covered under the Indian Penal Code, which is a comprehensive criminal code. Sections such as 419 (cheating by impersonation), 420 (cheating and dishonestly inducing delivery of property), 463 (forgery), and 505 (public mischief) can be invoked to prosecute cybercriminals engaging in activities like fraud, forgery, or spreading false information online.
 
-13) Briefly explain the global perspective on cybercrime:
+### Briefly explain the global perspective on cybercrime:
 
 a) Increasing Threat: Cybercrime is a growing global threat affecting individuals, businesses, and governments worldwide. The proliferation of digital technology and connectivity has expanded the attack surface for cybercriminals, leading to a rise in cyber incidents.
 
@@ -127,7 +127,7 @@ d) Collaborative Efforts: Countries are increasingly collaborating to combat cyb
 
 e) Regulatory Frameworks: Many countries have enacted specific laws and regulations to address cybercrime and enhance cybersecurity measures, aiming to protect critical infrastructure, privacy, and digital assets from malicious actors.
 
-14) Briefly explain the extended enterprise:
+### Briefly explain the extended enterprise:
 
 Extended enterprise refers to the concept of extending an organization's boundaries beyond its traditional perimeter to include external stakeholders such as suppliers, partners, customers, and contractors. Here's an overview:
 
@@ -141,7 +141,7 @@ d) Information Sharing: Extended enterprise relies on robust information sharing
 
 e) Enhanced Resilience: By expanding the enterprise boundaries, organizations can enhance resilience against disruptions, mitigate risks, and adapt to changing market dynamics more effectively, fostering innovation and growth.
 
-15) Define netizens? What are the survival mantras for netizens?
+### Define netizens? What are the survival mantras for netizens?
 
 Netizens refer to individuals who actively engage in online activities, including browsing websites, participating in social media platforms, and contributing to online communities. Here are survival mantras for netizens:
 
