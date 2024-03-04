@@ -78,11 +78,15 @@ e) Physical Attacks (e.g., theft or loss)
 
 9. **What are the different organizational measures taken for mobile security issues?**
 
-a) Mobile Device Management (MDM) Solutions
-b) Mobile Application Management (MAM) Policies
-c) Network Access Control (NAC) Systems
-d) Mobile Security Awareness Training
-e) Endpoint Security Solutions
+a) Mobile Device Management (MDM) Solutions: MDM solutions allow organizations to remotely manage and secure mobile devices by enforcing security policies, configuring device settings, and monitoring device usage.
+
+b) Mobile Application Management (MAM) Policies: MAM policies govern the distribution, usage, and security of mobile applications within an organization, ensuring apps adhere to security standards and mitigate risks.
+
+c) Network Access Control (NAC) Systems: NAC systems regulate access to organizational networks based on the security posture of mobile devices, verifying compliance before granting network entry.
+
+d) Mobile Security Awareness Training: Training programs educate employees about mobile security risks and best practices, empowering them to make informed decisions and reduce the likelihood of security incidents.
+
+e) Endpoint Security Solutions: Endpoint security solutions provide protection for mobile devices against security threats, including malware infections, network attacks, and data breaches, ensuring the integrity and confidentiality of corporate data.
 
 10. **Explain the security implications for organizations:**
 
